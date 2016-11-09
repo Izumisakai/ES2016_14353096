@@ -41,8 +41,7 @@
 
 				$../configure CXX=g++ --disable-async-updates
 		- 运行结果如下
-
-			![](https://github.com/Izumisakai/ES2016_14353096/blob/master/image/4.png)
+			<div align="center"><img src="https://github.com/Izumisakai/ES2016_14353096/blob/master/image/4.png" width="75%",height="75%"></div>
 		- 编译
 
 				$sudo make install
@@ -51,8 +50,7 @@
 				$cd ..        
 				$ls
 		- 编译完后文件目录如下
-
-			![](https://github.com/Izumisakai/ES2016_14353096/blob/master/image/5.png)
+			<div align="center"><img src="https://github.com/Izumisakai/ES2016_14353096/blob/master/image/5.png" width="75%",height="75%"></div>
 		- 记录当前路径
 
 				$pwd
@@ -67,7 +65,7 @@
 				$ant -f build_zip.xml all
 		- 若成功会显示build successful
 
-			![](https://github.com/Izumisakai/ES2016_14353096/blob/master/image/3.png)
+			<div align="center"><img src="https://github.com/Izumisakai/ES2016_14353096/blob/master/image/3.png" width="75%",height="75%"></div>
 		- 接着可以进入build/bin/mian路径下试试运行第一个例子
 
 				$cd build/bin/main
@@ -76,7 +74,7 @@
 				$ant -f runexample.xml -Dnumber=1
 		- 成功结果如图
 
-			![](https://github.com/Izumisakai/ES2016_14353096/blob/master/image/1.png)
+			<div align="center"><img src="https://github.com/Izumisakai/ES2016_14353096/blob/master/image/1.png" width="75%",height="75%"></div>
 
 - ##Experimental experience
 
