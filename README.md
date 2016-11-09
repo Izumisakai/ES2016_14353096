@@ -65,7 +65,7 @@
 				$ant -f build_zip.xml all
 		- 若成功会显示build successful
 
-			<div align="center"><img src="https://github.com/Izumisakai/ES2016_14353096/blob/master/image/3.png" width="75%",height="75%"></div>
+			<div align="center"><img src="https://github.com/Izumisakai/ES2016_14353096/blob/master/image/3.png" width="40%",height="40%"></div>
 		- 接着可以进入build/bin/mian路径下试试运行第一个例子
 
 				$cd build/bin/main
@@ -74,7 +74,7 @@
 				$ant -f runexample.xml -Dnumber=1
 		- 成功结果如图
 
-			<div align="center"><img src="https://github.com/Izumisakai/ES2016_14353096/blob/master/image/1.png" width="75%",height="75%"></div>
+			<div align="center"><img src="https://github.com/Izumisakai/ES2016_14353096/blob/master/image/1.png" width="50%",height="50%"></div>
 
 - ##Experimental experience
 
